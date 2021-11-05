@@ -8,4 +8,5 @@ Rezultatul va fi afisat pe ecran si calculul in real-time, adica odata ce utiliz
 
 Button de reset.
 
+=============================================================================================
 Preview: https://adnanze.github.io/BMI-SIIT/
