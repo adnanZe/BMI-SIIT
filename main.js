@@ -22,8 +22,7 @@ function updateValue() {
   And you are:<br>
   <span id='classification'>${bmiClassification.correlalteBMI(calculateBMI)}</span>
   `;
-  // displayResult.style.animation = 'fadeFast linear 2s';
-  // showSecond();
+
 };
 
 function resetValues() {
@@ -32,14 +31,6 @@ function resetValues() {
   displayResult.textContent = '';
 };
 
-// function showSecond() {
-//   setTimeout(function () {
-//     document.getElementById('classification').style.visibility = 'hidden';
-//   }, 0);
-//   setTimeout(function () {
-//     document.getElementById('classification').style.visibility = 'visible';
-//   }, 4000);
-// }
 
 
 // Classification of BMI
