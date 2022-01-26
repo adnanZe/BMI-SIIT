@@ -1,4 +1,4 @@
-# BMI-SIIT
+# Body Mass Index
 
 :clipboard: Requirements
 
