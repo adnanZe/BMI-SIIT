@@ -1,13 +1,15 @@
 # BMI-SIIT
 
-# Challenge week 05 optional
+:clipboard: Requirements
 
-Utilizatorul poate introduce greutate si inaltinea de la tastatura.
+:pushpin: User can add with keyboard weight and height
 
-Rezultatul va fi afisat pe ecran si calculul in real-time, adica odata ce utilizatorul modifica oricare dintre input-uri.
+:pushpin: Display result in realt time when user add values on inputs.
 
-Button de reset.
+:pushpin: Add reset button
 
-===============================================
+:eyes: Preview: :paperclip: https://adnanze.github.io/BMI-SIIT/
 
-Preview: https://adnanze.github.io/BMI-SIIT/
+:iphone: :heavy_check_mark:
+:computer: :heavy_check_mark:
+:desktop_computer: :heavy_check_mark:
