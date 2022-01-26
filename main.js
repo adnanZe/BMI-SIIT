@@ -1,5 +1,4 @@
 // grab DOM
-
 const inputWeight = document.getElementById('weight');
 const inputHeight = document.getElementById('height');
 const displayResult = document.getElementById('display-result');
@@ -10,7 +9,6 @@ const resetBtn = document.getElementById('reset');
 inputWeight.addEventListener('input', updateValue);
 inputHeight.addEventListener('input', updateValue);
 resetBtn.addEventListener('click', resetValues)
-
 
 // Functions
 
@@ -30,8 +28,6 @@ function resetValues() {
   inputWeight.value = '';
   displayResult.textContent = '';
 };
-
-
 
 // Classification of BMI
 
