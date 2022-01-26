@@ -8,7 +8,7 @@
 
 :pushpin: Add reset button
 
-:eyes: Preview: :paperclip: https://adnanze.github.io/BMI-SIIT/
+:eyes: Preview: :paperclip: https://adnanze.github.io/BodyMassIndex/
 
 :iphone: :heavy_check_mark:
 :computer: :heavy_check_mark:
